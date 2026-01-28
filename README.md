@@ -1,3 +1,3 @@
 # DVtoolkit
 ## for fun
-    this tool make to do multi thing at one project
+    this tool has marked to do multi thing at one project
